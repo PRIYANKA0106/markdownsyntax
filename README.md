@@ -21,8 +21,8 @@ This is normal Text
 
 1. List1
 2. List2
-    2.1 Sublist1
-    2.2 Sublist2
+    2. Sublist1
+    2. Sublist2
 3. List3
 
 ![GitHub Logo](https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9.jpg)
@@ -44,3 +44,11 @@ S.no|Name|MobileNo
 [Google](https://www.google.com)  <br>
 [facebook](https://www.facebook.com) <br>
 [Github](https://www.github.com) <br>
+
+
+```python
+def iseven(n):
+   if n%2==0:
+      print("even")
+   else
+      print("odd")
